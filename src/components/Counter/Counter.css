@@ -1,0 +1,15 @@
+/* Estilos de componente de contador */
+
+.counter {
+    color: white;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.counter button{
+    border-radius: 0.25rem;
+    margin: 0.25rem;
+    padding: 0.25rem 1rem;
+    width: fit-content;
+}

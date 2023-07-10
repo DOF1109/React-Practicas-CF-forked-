@@ -1,4 +1,6 @@
-import fotoPerfil from '../assets/foto-perfil.jfif';
+// Componente de tarjeta de presentacion
+
+import fotoPerfil from '../../assets/foto-perfil.jfif';
 import './PresentationCard.css';
 
  function PresentationCard() {

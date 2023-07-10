@@ -1,7 +1,6 @@
 /* Estilos de componente de contador */
 
 .counter {
-    color: white;
     display: flex;
     align-items: center;
     flex-direction: column;

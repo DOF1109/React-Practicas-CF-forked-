@@ -15,7 +15,7 @@ function Counter() {
     }
 
     return(
-        <div className='counter'>
+        <div className='counter white'>
             <p>
                 Hiciste click {counter} veces en este botón
             </p>

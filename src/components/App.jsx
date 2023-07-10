@@ -1,12 +1,14 @@
-import PresentationCard from "./PresentationCard/PresentationCard";
 import "./App.css";
-import Counter from "./Counter/Counter";
+import PresentationCard from "./presentationCard/PresentationCard";
+import Counter from "./counter/Counter";
+import CountDown from "./countDown/CountDown";
 
 export default function App() {
     return (
         <div className="App">
             {/* <PresentationCard/> */}
-            <Counter/>
+            {/* <Counter/> */}
+            <CountDown/>
         </div>
     );
 }
